@@ -1,0 +1,13 @@
+/app.js
+/config
+/migrations
+/models
+/node_modules
+/package-lock.json
+/package.json
+/persistencias
+/public
+/reset.js
+/routes
+/seeders
+/views
